@@ -1,2 +1,2 @@
 # ML_revising
-notebooks and small project to practice basic ML algorithm using PyCharm and GIT
+Jupyter Notebooks and small projects to practice basic ML algorithm using PyCharm and GIT
